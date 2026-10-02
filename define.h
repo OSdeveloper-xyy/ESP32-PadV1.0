@@ -108,7 +108,7 @@
 #define     SPI_MOSI       10
 #define     SPI_MISO       12
 #define     SPI_SCLK       11
-#define     BUTTON_POWER   21
+#define     BUTTON_POWER   GPIO_NUM_21
 #define     BUTTON_V_UP    41
 #define     BUTTON_V_DOWN  40
 
